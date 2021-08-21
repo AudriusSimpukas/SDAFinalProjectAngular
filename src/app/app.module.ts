@@ -5,7 +5,6 @@ import { AppComponent } from './app.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { HomeComponent } from './components/pages/home/home.component';
 import { AppRoutingModule } from './app-routing.module';
-import { StartComponent } from './components/pages/start/start.component';
 import { NavigationComponent } from './components/navigation/navigation.component';
 import { ProductsComponent } from './components/pages/products/products.component';
 import { MaintenanceComponent } from './components/pages/maintenance/maintenance.component';
@@ -16,7 +15,6 @@ import { ServicemanComponent } from './components/pages/serviceman/serviceman.co
     AppComponent,
     FooterComponent,
     HomeComponent,
-    StartComponent,
     NavigationComponent,
     ProductsComponent,
     MaintenanceComponent,
